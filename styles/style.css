@@ -102,6 +102,75 @@ a
 	margin-left: 40px;
 }
 
+.features
+{
+	display: block;
+	text-align: center;
+	color:  rgba(255, 255, 255, 0.8);
+	font-size: 24px;
+}
+
+.features input
+{
+	margin-top: 50px;
+}
+
+.contact
+{
+	margin-left: 500px;
+	color:  rgba(255, 255, 255, 0.8);
+	font-size: 16px;
+}
+
+.blog
+{
+	margin-left: 350px;
+	color:  rgba(255, 255, 255, 0.8);
+	font-size: 16px;
+	width: 650px;
+
+}
+
+.blog p
+{
+	overflow: scroll;
+	overflow-x: hidden;
+	height: 380px;
+}
+
+.blog h1
+{
+	text-align: center;
+}
+
+.portfolio
+{
+	margin-left: 350px;
+	color:  rgba(255, 255, 255, 0.8);
+	font-size: 16px;
+	width: 650px;
+}
+
+.portfolio h1
+{
+	text-align: center;
+}
+
+.portfolio ul
+{
+	overflow: scroll;
+	overflow-x: hidden;
+	height: 380px;
+	list-style-type: none;
+}
+
+.portfolio img
+{
+	max-width: 550px;
+	max-height: 400px;
+	margin-bottom: 20px;
+}
+
 .fa-style
 {
 	color:  rgba(255, 255, 255, 0.3);
